@@ -1,149 +1,79 @@
-# 🎤 Practical Facilitation Guide
+# 🏆 Sales Academy Framework
 
-> Facilitation is the art of creating the conditions for learning. Your job is not to be the expert in the room — it's to help the room learn together.
+A practical, field-tested framework for designing and deploying a Sales Academy — from competency mapping to long-term learning architecture.
 
----
+This framework is based on real-world experience building Sales Academies at scale, covering hundreds of sales professionals across B2B and B2C environments.
 
-## The facilitator's core principles
-
-1. **Ask, don't tell** — questions open minds; statements close them
-2. **Make it safe** — psychological safety is the prerequisite for learning
-3. **Honor the experience in the room** — your participants know things you don't
-4. **Stay curious** — the moment you think you know how the session will go, you stop facilitating
-5. **Serve the objectives** — everything you do should connect back to the learning goals
+> **Anonymized and generalized for open-source use.** Adapt it to your organization's context, culture, and commercial strategy.
 
 ---
 
-## Opening a session
+## Why a Sales Academy?
 
-### The first 10 minutes matter most
+A Sales Academy is not a training catalog. It's a **strategic, structured, long-term approach** to developing commercial talent — aligned with business priorities and embedded in the day-to-day rhythm of the sales organization.
 
-The opening sets the tone for everything that follows. Use it to:
+Done well, a Sales Academy:
 
-- **Welcome** participants warmly and personally
-- **Frame** the session — why this, why now, why them
-- **Clarify** the agenda, timing, and ground rules
-- **Connect** participants to each other (icebreaker if needed)
-- **Activate** prior knowledge — what do they already know?
-
-### Sample opening structure *(30-person group, 1-day session)*
-
-| Time | Activity |
-|---|---|
-| 0–5 min | Welcome, housekeeping |
-| 5–15 min | Icebreaker / introductions |
-| 15–20 min | Frame the day: objectives, agenda, "what's in it for you" |
-| 20–25 min | Ground rules (co-created with the group) |
-| 25–30 min | Activation question: "What do you already know about X?" |
+- Accelerates ramp-up for new hires
+- Harmonizes sales practices across teams and channels
+- Creates a common language and culture of excellence
+- Connects learning to measurable business outcomes
+- Supports talent retention and career development
 
 ---
 
-## Asking great questions
+## Framework overview
 
-Questions are your primary facilitation tool. Master these types:
+This repository is structured in 4 modules:
 
-| Type | Purpose | Example |
+| Module | File | Description |
 |---|---|---|
-| **Open** | Explore thinking | *"What's your experience with...?"* |
-| **Probing** | Go deeper | *"Can you say more about that?"* |
-| **Redirecting** | Involve others | *"What do others think?"* |
-| **Challenging** | Stretch thinking | *"What if the opposite were true?"* |
-| **Summarizing** | Consolidate | *"So what I'm hearing is... Is that right?"* |
-| **Connecting** | Link ideas | *"How does that relate to what Marie said earlier?"* |
-
-### Questions to avoid
-- **Leading questions:** *"Don't you think that...?"* — you're not asking, you're telling
-- **Double questions:** *"What did you think, and how did it make you feel?"* — pick one
-- **Yes/no questions:** they shut down conversation
+| 1️⃣ Competency Framework | [`1-competency-framework.md`](./1-competency-framework.md) | How to define and structure sales competencies |
+| 2️⃣ Learning Architecture | [`2-learning-architecture.md`](./2-learning-architecture.md) | Designing the Academy's learning paths and formats |
+| 3️⃣ Onboarding Integration | [`3-onboarding-integration.md`](./3-onboarding-integration.md) | Connecting the Academy to sales onboarding |
+| 4️⃣ KPIs & Measurement | [`4-kpis-measurement.md`](./4-kpis-measurement.md) | Tracking impact and proving ROI |
 
 ---
 
-## Managing group dynamics
+## Key design principles
 
-### The silent participant
-- Don't force them — some people think before they speak
-- Try small group discussion first, then invite sharing
-- Use written activities (post-its, polls) to give everyone a voice
+**1. Business-first**
+Every element of the Academy must connect to a commercial priority. Training for training's sake is waste.
 
-### The dominant participant
-- Validate their contribution, then open to others: *"Great point — who else has a perspective?"*
-- Use round-robins to ensure everyone speaks
-- Speak to them privately during a break if needed
+**2. Competency-based**
+Build on a clear, shared definition of what "good" looks like at each role and level.
 
-### The resistant participant
-- Stay curious, not defensive: *"That's interesting — tell me more"*
-- Acknowledge their experience: *"It sounds like you've tried something similar before"*
-- Don't fight resistance — work with it
+**3. Blended by design**
+Combine formal learning, on-the-job practice, and peer learning — following the 70/20/10 model.
 
-### The off-topic tangent
-- *"That's a really interesting point — let's note it in our 'parking lot' and come back to it"*
-- Use a visible parking lot (flip chart or virtual board) to capture ideas for later
+**4. Always-on**
+A Sales Academy is not an event. It's an ecosystem learners return to continuously.
+
+**5. Governed and measured**
+Cross-functional governance (Sales, HR, Operations) and regular KPI reviews are non-negotiable.
 
 ---
 
-## Running activities & discussions
+## Recommended deployment timeline
 
-### Small group work
-- Give crystal-clear instructions before forming groups
-- Assign roles (timekeeper, note-taker, spokesperson)
-- Set a visible timer
-- Debrief in plenary: what did you discuss? What did you decide? What surprised you?
-
-### Plenary discussions
-- Stand up and move around the room (for in-person) — it changes the energy
-- Use a T-chart or whiteboard to capture key ideas visibly
-- Summarize regularly: *"So far we've said X, Y, Z — what's missing?"*
-
-### Role plays & simulations
-- Always brief before, debrief after
-- Give clear roles and scenarios in writing
-- Debrief with the observer first, then the participant
-- Focus on behavior, not personality: *"What did you notice?"* not *"How did they do?"*
-
----
-
-## Closing a session
-
-### The last 15 minutes are as important as the first
-
-A strong close helps learners consolidate, commit, and leave energized.
-
-| Element | Purpose | Example activity |
+| Phase | Timeline | Key activities |
 |---|---|---|
-| **Summary** | Consolidate learning | "3 things I'm taking away" — round robin |
-| **Connection** | Link to real life | "How will you apply this next week?" |
-| **Commitment** | Drive action | Individual action plan (1 action, 1 date) |
-| **Evaluation** | Gather feedback | Quick satisfaction survey |
-| **Closing** | End on a high | Thank the group, celebrate what was achieved |
+| **Discovery** | Month 1–2 | Stakeholder interviews, needs analysis, competency mapping |
+| **Design** | Month 2–4 | Framework validation, learning architecture, content planning |
+| **Build** | Month 3–6 | Content production, LMS setup, pilot group |
+| **Launch** | Month 6 | Pilot, feedback, iteration |
+| **Scale** | Month 7–12 | Full deployment, governance, KPI tracking |
+| **Sustain** | Year 2+ | Content refresh, certification cycles, community |
 
 ---
 
-## Virtual facilitation: specific tips
+## 👩‍💼 About the author
 
-Virtual sessions require extra intentionality — the screen creates distance.
+**Mélanie Dufau Casanabe Miramon** — Senior L&D & Sales Excellence Professional  
+15+ years designing and deploying Sales Academies and large-scale learning programs in international environments.
 
-- **Shorter blocks** — max 45–50 minutes of content, then a break or activity
-- **Camera on** — model it yourself and gently encourage it
-- **Check-ins more often** — *"Thumbs up if you can follow?"* or quick polls
-- **Vary the format** — alternate between presenting, discussing, activities
-- **Use the chat actively** — pose questions, invite responses in writing
-- **Breakout rooms** — even 8 minutes in small groups changes the energy
-- **Name people** — *"I'd love to hear from Julien on this"* — prevents anonymity
+🔗 [LinkedIn](https://www.linkedin.com/in/mdufau) · 📧 melaniedcm@icloud.com
 
 ---
 
-## Self-assessment after each session
-
-Rate yourself 1–5 on each:
-
-- [ ] I created a safe and engaging learning environment
-- [ ] I stuck to the objectives without being rigid
-- [ ] I asked more than I told
-- [ ] I managed time effectively
-- [ ] I read the room and adapted when needed
-- [ ] I gave all participants a voice
-- [ ] I ended with clear takeaways and commitments
-
----
-
-*Guide by [Mélanie Dufau Casanabe Miramon](https://www.linkedin.com/in/mdufau) — free to use and adapt*
+*🇫🇷 Also available in French upon request.*
